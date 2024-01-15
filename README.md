@@ -1,4 +1,4 @@
-# todoapp
+# Simple To-Do App
 
-A simple Flutter application to make to-do lists.
+A simple Flutter app to make to-do lists.
 
